@@ -172,8 +172,7 @@ h3 {
     padding-top: 5%
   }
 
-  .thumbnail{
-  position: static;
+  .thumbnail {
   width: 60%;
   transform: rotate(25deg);
   padding left: 4.5rem;
