@@ -173,6 +173,7 @@ h3 {
   }
 
   .thumbnail {
+  position: static;
   width: 60%;
   transform: rotate(25deg);
   padding left: 4.5rem;
